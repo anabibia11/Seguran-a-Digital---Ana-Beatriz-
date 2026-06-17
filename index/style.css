@@ -5,7 +5,7 @@
     --cor-de-fundo: #248d76;
     --fundo-senha: #004d40;
     --fundo-texto: #006c7a;
-    --borda: #1eff00;
+    --borda: #0cf5af;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -119,4 +119,8 @@ body{
     padding: 24px;
     font-size: 24px;
     cursor: pointer;
+}
+
+label{
+    font-size: 20px;
 }
